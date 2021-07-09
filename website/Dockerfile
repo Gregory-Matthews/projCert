@@ -1,2 +1,2 @@
 FROM devopsedu/webapp
-COPY . /var/www/html
+ADD website /var/www/html
